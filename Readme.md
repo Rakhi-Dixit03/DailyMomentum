@@ -164,7 +164,7 @@ Here’s a quick look at the DailyMomentum app in action:
 - **Name :** Rakhi Dixit
 - **Email:** rakhidixit795@gmail.com
 - **GitHub:** [Rakhi-Dixit03](https://github.com/Rakhi-Dixit03)
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/Rakhi-Dixit11/)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/rakhidixit11/)
 
 
 ##  Contributions are always welcome!
