@@ -151,11 +151,11 @@ public class HabitDaoImpl extends BaseDao<Habit> implements HabitDao {
 
                 if (bestHabit != null) {
 
-                    if(bestHabit.getBestStreak()>0 && list.size()>1){
+                    if(bestHabit.getBestStreak()>1 && list.size()>1){
                         System.out.println("Welcome back👋, " + u.getName() + "! You have " + list.size()+ " active habits and  your best streak is " + bestHabit.getBestStreak() + " days on habit " + bestHabit.getTitle() + "\" 🎉");
                     }else{
 
-                        System.out.println("Welcome back👋, " + u.getName() + "! You have " + list.size()+ " active habit and  your best streak is " + bestHabit.getBestStreak() + " days on habit " + bestHabit.getTitle() + "\" 🎉");
+                        System.out.println("Welcome back👋, " + u.getName() + "! You have " + list.size()+ " active habit and  your best streak is " + bestHabit.getBestStreak() + " day on habit " + bestHabit.getTitle() + "\" 🎉");
 
                     }
 

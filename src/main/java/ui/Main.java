@@ -41,14 +41,15 @@ public class Main {
        while(true) {
            System.out.println();
            System.out.println("**** 🎉 WELCOME TO DAILY MOMENTUM 😊 ****");
-           System.out.println("🚀 Build Habits,Break Limits!");
+           System.out.println("🚀🚀 Build Habits,Break Limits!");
            System.out.println("🔥Start Your Self Growth Journey Today!");
 
            System.out.println("--------------------------------------------");
+           System.out.println("👉 Please Select an Option : ");
 
-           System.out.println("1. Register Yourself,if you are New. ");
-           System.out.println("2. Login ,if you already have an Account.");
-           System.out.println("3. Exit.");
+           System.out.println("1️⃣ Register a new account");
+           System.out.println("2️⃣ Login to your account");
+           System.out.println("3️⃣ Exit.");
            System.out.println("--------------------------------------------");
            System.out.println("Enter Your Choice : ");
 
@@ -264,18 +265,18 @@ public class Main {
            System.out.println();
            System.out.println("🌟 DailyMomentum Menu 🌟");
            System.out.println("--------------------------------------------");
-           System.out.println("1. Create New Habit ");
-           System.out.println("2. View MY Habits ");
-           System.out.println("3. Mark Habit As Done ");
-           System.out.println("4. View Habit Details ");
-           System.out.println("5. View Logs for your habit ");
-           System.out.println("6. Update Habit ");
-           System.out.println("7. Delete Habit ");
-           System.out.println("8. Get Current Streak of Your Habit");
-           System.out.println("9. Get Best Streak of Your Habit");
-           System.out.println("10. Update User Details");
-           System.out.println("11. Delete Account");
-           System.out.println("12. Logout ");
+           System.out.println("1️⃣ Create A New Habit ");
+           System.out.println("2️⃣ View MY Habits ");
+           System.out.println("3️⃣ Mark Habit As Done ");
+           System.out.println("4️⃣ View Habit Details ");
+           System.out.println("5️⃣ View Logs for your habit ");
+           System.out.println("6️⃣ Update Habit ");
+           System.out.println("7️⃣ Delete Habit ");
+           System.out.println("8️⃣ Get Current Streak of Your Habit");
+           System.out.println("9️⃣ Get Best Streak of Your Habit");
+           System.out.println("🔟 Update User Details");
+           System.out.println("11.❌ Delete Account");
+           System.out.println("12. 👉 Logout ");
 
            System.out.println("--------------------------------------------");
            System.out.println("Choose an Option  : ");

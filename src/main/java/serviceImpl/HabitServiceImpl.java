@@ -82,7 +82,7 @@ public class HabitServiceImpl implements HabitService {
         tx.commit();
         session.close();
         System.out.println("**************************");
-        System.out.println("Habit mark as done and streak updated.");
+        System.out.println("Habit marked ✅ as done and streak updated.");
         System.out.println("**************************");
 
     }
