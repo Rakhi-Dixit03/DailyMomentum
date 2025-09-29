@@ -18,8 +18,6 @@ public class HibernateUtil {
             Configuration config=new Configuration().configure("hibernate.cfg.xml");
             //Register annotated classes
             config.addAnnotatedClass(entity.User.class);
-            config.addAnnotatedClass(entity.LifeArea.class);
-            config.addAnnotatedClass(entity.Goal.class);
             config.addAnnotatedClass(entity.Habit.class);
             config.addAnnotatedClass(entity.HabitLogs.class);
 
