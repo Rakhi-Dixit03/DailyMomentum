@@ -123,27 +123,29 @@ cd DailyMomentum
 Here’s a quick look at the DailyMomentum app in action:
 
 ### 1. Home / Welcome Screen
-![Home Screen](assets/home.png)
+![Home Screen](assets/Home.png)
 
 
 ### 2. Login & Registration
 ![Login Screen](assets/login.png) 
 ![Register Screen](assets/register.png)
+![Register Screen](assets/register1.png)
 
-*User can login or register to start tracking habits.*
+*User can log-in or register to start tracking habits.*
 
 ### 2. Habit Dashboard
-![Dashboard](assets/habitSummary.png) 
+![Dashboard](assets/summary.png) 
 
 *Shows all habits, current streaks, and best streaks for the logged-in user.*
 
 ### 3. Creating a Habit
 ![Create Habit](assets/habitCreation.png)
+![Create Habit](assets/habitCreation1.png)
 
 *User can add a new habit by entering title, description, and frequency.*
 
 ### 4. Habit Completion & Streaks
-![Habit Completion](assets/markHabit.png)  
+![Habit Completion](assets/markDone.png)  
 
 *Mark habits as done, and the streaks get updated automatically.*
 

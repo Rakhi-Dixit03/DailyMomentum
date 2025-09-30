@@ -120,7 +120,7 @@ public class Main {
                } else {
                    System.out.println("Registration failed. Try logging in.");
                    return false;
-//
+
                }
 
            } catch (UserException e) {
